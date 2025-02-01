@@ -8,4 +8,3 @@
 
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,nextjs,react,cs)](https://kynius-portfolio.vercel.app/)
